@@ -22,6 +22,9 @@ Before running the predictions, please download the pre-trained model weights fr
 | 6 | 0.011041750200092793 | 8 | ['153', '154', '155', '158', '159', '206', '207', '208'] |
 | 11 | 0.006024292 | 7 | ['107', '108', '150', '151', '152', '210', '211'] |
 
+## Image of pocket5
+![Allosteric Site Visualization](pocketall.png)
+![Allosteric Site Visualization](pocket5.png)
 ## Usage
 
 You can run the prediction by specifying the model path, the target PDB file, and the desired output filename. 
