@@ -23,7 +23,6 @@ Before running the predictions, please download the pre-trained model weights fr
 | 11 | 0.006024292 | 7 | ['107', '108', '150', '151', '152', '210', '211'] |
 
 ## Image of pocket5
-![Allosteric Site Visualization](pocketall.png)
 ![Allosteric Site Visualization](pocket5.png)
 ## Usage
 
