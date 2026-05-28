@@ -1,4 +1,4 @@
-name: deepallo
+name: deepallow
 channels:
   - defaults
 dependencies:
@@ -10,4 +10,4 @@ dependencies:
   - torchaudio==2.2.2
   - torchvision==0.17.2
   - conda-forge::py-xgboost-gpu
-prefix: /home/c00jsw00/anaconda3/envs/deepallo
+prefix: /home/c00jsw00/anaconda3/envs/deepallow
