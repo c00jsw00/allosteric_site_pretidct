@@ -1,0 +1,13 @@
+name: deepallo
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - bioconda::mmseqs2
+  - conda-forge::biopython
+  - anaconda::scikit-learn
+  - pytorch-cuda=11.8
+  - torchaudio==2.2.2
+  - torchvision==0.17.2
+  - conda-forge::py-xgboost-gpu
+prefix: /home/c00jsw00/anaconda3/envs/deepallo
