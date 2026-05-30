@@ -34,8 +34,10 @@ Here is the integrated table combining predictions from `#deepallo` and `#PASSer
 
 ## Reference 
 Passer2.0: https://passer.smu.edu/
+
 deepallo: https://github.com/MoaazK/deepallo
 
+Allosteric binding site of zija ns2bns3: PDB ID: 9TPG and 9IBY ((https://doi.org/10.1038/s41467-026-68943-x))
 ## Usage
 
 You can run the prediction by specifying the model path, the target PDB file, and the desired output filename. 
