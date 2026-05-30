@@ -31,6 +31,11 @@ Here is the integrated table combining predictions from `#deepallo` and `#PASSer
 | 11 | 0.6024292 | 5.439323009341024 | 7 | ['107', '108', '150', '151', '152', '210', '211'] |
 ## Image of pocket5 (https://doi.org/10.1038/s41467-026-68943-x)
 ![Allosteric Site Visualization](pocket5.png)
+
+## Reference 
+Passer2.0: https://passer.smu.edu/
+deepallo: https://github.com/MoaazK/deepallo
+
 ## Usage
 
 You can run the prediction by specifying the model path, the target PDB file, and the desired output filename. 
