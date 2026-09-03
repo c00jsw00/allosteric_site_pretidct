@@ -1,0 +1,12 @@
+# JCIM archive — committed as-is; only build/venv artifacts excluded
+__pycache__/
+*.py[cod]
+.venv/
+.venv-esmc/
+venv/
+ENV/
+.DS_Store
+Thumbs.db
+_caco2_feat_cache.npz
+_pampa_feat_cache.npz
+_pv_pampa_feat_cache.npz
